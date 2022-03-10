@@ -4,4 +4,4 @@ The HelloWorld solidity program has been deployed on the Rinkbey Ethereum test n
 
 The address for the contract is 
 
-0xf7E7A3e94171B7de1C620B596858e0Edbd70A481
+https://rinkeby.etherscan.io/address/0xf7E7A3e94171B7de1C620B596858e0Edbd70A481
